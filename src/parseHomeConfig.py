@@ -1,0 +1,1 @@
+# Parses the Information from the Configuration File found in the user's Home Directory
